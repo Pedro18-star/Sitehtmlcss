@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("sao-paulo-fc-commemorative-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+header {
+    text-align:center;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+
+}
+.container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.container img {
+    margin-right: 10px;
+    max-width: 200px; /* Ajuste o tamanho da imagem conforme necessário */
+}
+
+.container p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.container img {
+    margin-right: 10px;
+    max-width: 150px; /* Ajuste o tamanho da imagem conforme necessário */
+}
+
+.container p {
+    margin: 0;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+}
